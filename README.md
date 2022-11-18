@@ -2,8 +2,6 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmin1275&count_bg=%23BCDEEF&title_bg=%237EB5E7&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-![Sajieun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Minjeong&show_icons=true&theme=dracula)
-
 # 💪🏻Skills
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
